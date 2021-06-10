@@ -15,5 +15,6 @@ To follow the same preparation technique as done in the thesis, please follow th
 -Information_Gain_modelling_home_credit.R
 
 *each code scripts writes down predictions from each model as csv files
+
 4. Run the final code script which calculates performance results for each of the models
 -correct loading of the files is essential
