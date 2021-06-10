@@ -1,5 +1,5 @@
 # thesis_Vojtech_Mikes
-Code to used for my thesis project
+Code used for my thesis project
 
 Instructions:
 
