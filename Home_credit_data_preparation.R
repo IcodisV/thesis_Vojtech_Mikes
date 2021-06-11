@@ -10,7 +10,7 @@ library(FSelector)
 library(tidyverse)
 #loading the data
 data_home <-
-  fread("C:/Users/vojte/OneDrive/Plocha/Master Thesis/Thesis_project/Thesis_2/application_train.csv")
+  fread("~/application_train.csv")
 
 
 #data prep
